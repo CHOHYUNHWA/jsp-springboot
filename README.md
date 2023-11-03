@@ -1,6 +1,4 @@
-# jsp-springboot
-
-## JSP, SpringBoot, JPA를 이용한 게시판 프로그램
+# JSP, SpringBoot, JPA를 이용한 게시판 프로그램
 
 회원 기능 - 회원가입, 로그인, 비밀번호 수정, 회원탈퇴
 
